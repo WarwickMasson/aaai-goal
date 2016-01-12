@@ -1,0 +1,6 @@
+*.pyc
+*.swp
+/screens
+/runs
+/sprites
+run.py
